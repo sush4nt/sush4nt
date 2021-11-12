@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sush4nt
-- 👀 I’m interested in Machine Learning and AI World
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning Specialization
-- 💞️ I’m looking to collaborate on any Machine Learning Projects to learn from
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sushant.kb.patil@gmail.com
 
 <!---
