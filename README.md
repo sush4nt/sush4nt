@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sush4nt
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning Specialization
 - 📫 How to reach me sushant.kb.patil@gmail.com
 
 <!---
