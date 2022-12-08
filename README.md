@@ -3,7 +3,7 @@
 - 📫 How to reach me sushant.kb.patil@gmail.com
 
 
-[![Spotify](https://my-spotify-recently-played.vercel.app/api/spotify)](https://open.spotify.com/user/sushant)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4p1rc1eywsgsrzdjy8udt5706&count=3&unique=true)
 
 <!---
 sush4nt/sush4nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
