@@ -3,12 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Sushant, a data scientist 🚀</div>  
+### <div align="center">Hello there, I'm Sushant 😎</div>  
   
 
-- 🔭 I’m currently working on solving challenging problems in the manufacturing sector, using data-driven decision making and machine learning applications at [Tvarit GmbH](https://tvarit.com/)
+- 🔭 I am a skilled Data Scientist@[Tvarit GmbH](https://tvarit.com/) with expertise in manufacturing industry, specializing in multivariate multi-step high-frequency time series data. 
 
-- 🌱 I’m currently learning **Deep learning frameworks, BigData, DevOps**
+- 📖 As a Project/Technical Lead on the Delivery Team, I collaborate on scrap reduction and process optimization projects using data-driven frameworks. My solutions incorporate Machine Learning, Root Cause Analytics, Prescriptive & Predictive Analytics, Time Series Analysis, Deep Learning, Industry 4.0.
+
+- 🌱 I’m currently learning **Deep learning frameworks and Model Deployment pipelines**
 
 - ❤️ Football, Chai & Running 🏃‍♂️.  
   
