@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/sush4nt/sush4nt/blob/main/daftpunktocat-guy%20(2).gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">Hello there, I'm Sushant 😎</div>  
