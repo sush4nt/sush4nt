@@ -6,9 +6,7 @@
 ### <div align="center">Hello there, I'm Sushant 😎</div>  
   
 
-- 🔭 I am a skilled Data Scientist@[Tvarit GmbH](https://tvarit.com/) with expertise in manufacturing industry, specializing in multivariate multi-step high-frequency time series data. 
-
-- 📖 As a Project/Technical Lead on the Delivery Team, I collaborate on scrap reduction and process optimization projects using data-driven frameworks. My solutions incorporate Machine Learning, Root Cause Analytics, Prescriptive & Predictive Analytics, Time Series Analysis, Deep Learning, Industry 4.0.
+- 🔭 Proactive and passionate data scientist with experience in utilizing machine learning to create data-driven solutions 
 
 - 🌱 I’m currently learning **Deep learning frameworks and Model Deployment pipelines**
 
