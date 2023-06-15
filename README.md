@@ -3,7 +3,7 @@
 </div>   -->
   
 
-### <div align="center">Hello there, I'm Sushant 😎</div>  
+### <div align="center">Hello there, I'm Sushant </div>  
   
 
 - 🔭 Innovative and passionate data scientist with experience in utilizing machine learning to create unique data-driven solutions 
