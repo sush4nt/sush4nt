@@ -6,7 +6,7 @@
 ### <div align="center">Hello there, I'm Sushant 😎</div>  
   
 
-- 🔭 Proactive and passionate data scientist with experience in utilizing machine learning to create data-driven solutions 
+- 🔭 Innovative and passionate data scientist with experience in utilizing machine learning to create unique data-driven solutions 
 
 - 🌱 I’m currently learning **Deep learning frameworks and Model Deployment pipelines**
 
