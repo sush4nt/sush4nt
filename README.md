@@ -5,21 +5,22 @@
 
 ### <div align="center">Hi there! </div>  
   
+<div align="center">
+  
+- 🔭 I am a data scientist with an interest in applied machine learning, and deep learning.   
 
-- 🔭 I am a data scientist with an interest in applied machine learning.   
-
-- 🌱 I’m currently automating data-driven solutions for manufacturing industries. 
+- 🌱 I’m currently developing automated data-driven solutions for manufacturing industries. 
 
 - ❤️ Football, Chai & Running 🏃‍♂️.  
 
 - 📫 How to reach me **sushant.kb.patil@gmail.com**  
-
+</div>
 <br/>  
 
 
-## Connect with me  
+ 
 <div align="center">
-
+  
 <a href="https://www.linkedin.com/in/sush4nt/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -34,12 +35,12 @@
 <br/>  
 
 
-<table width="100%"> 
+<table align="center" width="100%"> 
   <tr>
   <td width="25%">
 &nbsp;<p align="center"><a href="https://open.spotify.com/user/4p1rc1eywsgsrzdjy8udt5706"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"><br>
       </p>
-      <p align="center">Playing....<br><br></p>
+      <p align="center">Playing: <br><br></p>
 
 
   </td>
