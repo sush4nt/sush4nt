@@ -9,7 +9,9 @@
   
 - 🔭 I am a data scientist with an interest in applied machine learning, and deep learning.   
 
-- 🌱 I’m currently working in AdTech industry, applying machine learning and statistical algorithms to analyze data, optimize real-time bidding strategies, fraud detection, and improve ad targeting. I collaborate with cross-functional teams to deliver impactful data-driven solutions in the ad tech space. 
+- 🌱 I’m currently working in AdTech industry, applying machine learning and statistical algorithms to analyze data, optimize real-time bidding strategies, fraud detection, and improve ad targeting.
+- 
+- I collaborate with cross-functional teams to deliver impactful data-driven solutions in the ad tech space. 
 
 - ❤️ Football, Chai & Running 🏃‍♂️.  
 
