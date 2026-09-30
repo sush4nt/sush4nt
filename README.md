@@ -4,16 +4,16 @@ Data Scientist, Mumbai
 
 Applied ML · ML systems · RAG · experimentation
 
-I work on systems that continue past model training — experimentation and evaluation, then serving and production behavior.
+I work on systems that continue past model training, experimentation and evaluation, then serving and production behavior.
 
 Professionally, that is forecasting, experimentation, and optimization on production ML systems.
 
 ## What I work on
 
-- **Applied ML** — forecasting, optimization, experimentation, and model evaluation
-- **ML systems** — inference, model lifecycle, APIs, monitoring, and production behavior
-- **Retrieval and RAG** — retrieval strategies, reranking, and separate evaluation of retrieval and answers
-- **ML foundations** — how algorithms optimize, regularize, and fail
+- **Applied ML** : forecasting, optimization, experimentation, and model evaluation
+- **ML systems** : inference, model lifecycle, APIs, monitoring, and production behavior
+- **Retrieval and RAG** : retrieval strategies, reranking, and separate evaluation of retrieval and answers
+- **ML foundations** : how algorithms optimize, regularize, and fail
 
 ## Selected projects
 
@@ -43,15 +43,15 @@ Built to study optimization, regularization, split criteria, and convergence, an
 
 ## Stack
 
-**ML** - Python · NumPy · scikit-learn · XGBoost
+**ML** : Python · NumPy · scikit-learn · XGBoost
 
-**Systems** - FastAPI · MLflow · Docker · Kubernetes
+**Systems** : FastAPI · MLflow · Docker · Kubernetes
 
-**Observability** - Prometheus · Grafana
+**Observability** : Prometheus · Grafana
 
-**Data** - SQL · PySpark
+**Data** : SQL · PySpark
 
-**AI** - RAG · retrieval evaluation
+**AI** : RAG · retrieval evaluation
 
 ## Currently exploring
 
