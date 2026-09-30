@@ -4,9 +4,9 @@ Data Scientist, Mumbai
 
 Applied ML · ML systems · RAG · experimentation
 
-I work on systems that continue past model training, experimentation and evaluation, then serving and production behavior.
+I build applied ML and GenAI platforms that move from modeling and experimentation into deployment, monitoring, and real production impact.
 
-Professionally, that is forecasting, experimentation, and optimization on production ML systems.
+My work spans forecasting, experimentation, and optimization in production ML environments.
 
 ## What I work on
 
