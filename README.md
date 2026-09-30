@@ -1,57 +1,60 @@
-<!-- <div align="center">
-<img src="https://github.com/sush4nt/sush4nt/blob/main/daftpunktocat-guy%20(2).gif" align="center" style="width: 100%" />
-</div>   -->
-  
+# Sushant Patil
 
-### <div align="center">Hi there! </div>  
-  
-<div align="center">
-  
-- 🔭 I am a data scientist with an interest in applied machine learning, and deep learning.   
+Data Scientist, Mumbai
 
-- 🌱 I’m currently working in AdTech industry, applying machine learning and statistical algorithms to analyze data, optimize real-time bidding strategies, fraud detection, and improve ad targeting.
-  
-- I collaborate with cross-functional teams to deliver impactful data-driven solutions in the ad tech space. 
+Applied ML · ML systems · RAG · experimentation
 
-- ❤️ Football, Chai & Running 🏃‍♂️.  
+I work on systems that continue past model training — experimentation and evaluation, then serving and production behavior.
 
-- 📫 How to reach me **sushant.kb.patil@gmail.com**  
-</div>
-<br/>  
+Professionally, that is forecasting, experimentation, and optimization on production ML systems.
 
+## What I work on
 
- 
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/sush4nt/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/sushantpatil04" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sush4ntpatil" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+- **Applied ML** — forecasting, optimization, experimentation, and model evaluation
+- **ML systems** — inference, model lifecycle, APIs, monitoring, and production behavior
+- **Retrieval and RAG** — retrieval strategies, reranking, and separate evaluation of retrieval and answers
+- **ML foundations** — how algorithms optimize, regularize, and fail
 
+## Selected projects
 
-<table align="center" width="100%"> 
-  <tr>
-  <td width="25%">
-&nbsp;<p align="center"><a href="https://open.spotify.com/user/4p1rc1eywsgsrzdjy8udt5706"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"><br>
-      </p>
-      <p align="center">Playing: <br><br></p>
+### [RAGBench](https://github.com/sush4nt/rag-bench)
 
+Compares lexical, semantic, hybrid, and reranked retrieval on the same questions and the same documents.
 
-  </td>
-  <td width="75%">
+NDCG, MRR, Recall, and latency are scored apart from answer faithfulness, so a better ranker does not hide a worse answer.
 
+`BM25` `Dense retrieval` `Reranking` `RAGAS` `Qdrant`
 
-&nbsp; <br> [![Spotify](https://my-spotify-recently-played-test.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/4p1rc1eywsgsrzdjy8udt5706)
-</table>
+### [MLServe](https://github.com/sush4nt/mlserve)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sush4nt&&style=flat-square" align="center" />
-</div>  
+Trains, versions, and serves models, then measures how the serving runtime behaves.
+
+The same XGBoost weights run through a Python runner and an ONNX runtime on a KServe V2 API. MLflow versions the models. Prometheus and Grafana record latency, throughput, and errors.
+
+`FastAPI` `MLflow` `ONNX` `Prometheus` `Grafana`
+
+### [ML Core](https://github.com/sush4nt/ml-core)
+
+Classical algorithms implemented in NumPy — linear and logistic regression, trees, boosting, naive Bayes, and a linear SVM — behind one fit/predict interface.
+
+Built to study optimization, regularization, split criteria, and convergence, and to compare that behavior with library implementations.
+
+`NumPy` `Optimization` `Model behavior`
+
+## Stack
+
+**ML** - Python · NumPy · scikit-learn · XGBoost
+
+**Systems** - FastAPI · MLflow · Docker · Kubernetes
+
+**Observability** - Prometheus · Grafana
+
+**Data** - SQL · PySpark
+
+**AI** - RAG · retrieval evaluation
+
+## Currently exploring
+
+RAG evaluation · retrieval systems · inference performance · production ML
+
+[LinkedIn](https://www.linkedin.com/in/sush4nt/) · [Portfolio](https://sushantpatil.dev) · [Email](mailto:sushant.kb.patil@gmail.com)
